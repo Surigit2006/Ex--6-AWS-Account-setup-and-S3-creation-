@@ -1,6 +1,6 @@
 ## Ex.3 Cloud Storage Creation (S3) and Launching an EC2 Instance in AWS
-## NAME: VARSHA A
-## REG NO: 212223220121
+## NAME: M.K.Suriya prakash
+## REG NO: 212224110053
 ## Aim
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
 
@@ -68,7 +68,7 @@ Select your instance → Instance State → Terminate.
 
 ## Snap Shot 2: EC2 (Elastic Compute Cloud) – Instance
 
-![439074135-d6fcf119-b37b-44cc-89d8-f535943e8296](https://github.com/user-attachments/assets/52383249-bc6f-4143-ba27-41749974884a)
+<img width="1918" height="1047" alt="image" src="https://github.com/user-attachments/assets/9012b5a4-ae76-478b-82a3-911f65def8e8" />
 
 ## Result
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) instance has been successfully created and launched in AWS.
